@@ -1,0 +1,13 @@
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\bin\Debug\netcoreapp3.1\PrimParallel.exe
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\bin\Debug\netcoreapp3.1\PrimParallel.deps.json
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\bin\Debug\netcoreapp3.1\PrimParallel.runtimeconfig.json
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\bin\Debug\netcoreapp3.1\PrimParallel.runtimeconfig.dev.json
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\bin\Debug\netcoreapp3.1\PrimParallel.dll
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\bin\Debug\netcoreapp3.1\PrimParallel.pdb
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\obj\Debug\netcoreapp3.1\PrimParallel.csprojAssemblyReference.cache
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\obj\Debug\netcoreapp3.1\PrimParallel.AssemblyInfoInputs.cache
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\obj\Debug\netcoreapp3.1\PrimParallel.AssemblyInfo.cs
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\obj\Debug\netcoreapp3.1\PrimParallel.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\obj\Debug\netcoreapp3.1\PrimParallel.dll
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\obj\Debug\netcoreapp3.1\PrimParallel.pdb
+C:\Users\Maksym\source\repos\PrimParallel\PrimParallel\obj\Debug\netcoreapp3.1\PrimParallel.genruntimeconfig.cache
